@@ -1,5 +1,8 @@
 first line added
 second line added
+<<<<<<< HEAD
 merging is started
 stashing is started
 rebase started
+=======
+>>>>>>> parent of ff728be (merging is started)
