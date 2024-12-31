@@ -4,5 +4,8 @@ second line added
 merging is started
 stashing is started
 rebase started
+<<<<<<< HEAD
 =======
 >>>>>>> parent of ff728be (merging is started)
+=======
+>>>>>>> 0cd95c5 (rebase started)
