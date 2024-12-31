@@ -4,3 +4,4 @@ merging is started
 stashing is started
 rebase started
 cherry-pick started
+cherry-pick 
